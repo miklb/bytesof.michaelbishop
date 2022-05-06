@@ -1,0 +1,442 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Bytes of Michael Bishop",
+	"icon": "https://micro.blog/michaelbishop/avatar.jpg",
+	"home_page_url": "https://bytesof.michaelbishop.me/",
+	"feed_url": "https://bytesof.michaelbishop.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://michaelbishop.micro.blog/2022/03/16/moar-debugging-then.html",
+				
+				"content_html": "<p>Moar debugging. Then Ice cream.</p>\n",
+				"content_text": "Moar debugging. Then Ice cream.\n",
+				"date_published": "2022-03-16T22:48:47-04:00",
+				"url": "https://bytesof.michaelbishop.me/2022/03/16/moar-debugging-then.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2022/03/16/dusting-off-my.html",
+				
+				"content_html": "<p>Dusting off my micro.blog instance to see if I can get the archive to finally generate so I can migrate to Eleventy. Not sure why it&rsquo;s down- DNS looks correct-not interested in debugging. Edit 1 for debugging. Edit 2 still debugging.</p>\n",
+				"content_text": "Dusting off my micro.blog instance to see if I can get the archive to finally generate so I can migrate to Eleventy. Not sure why it's down- DNS looks correct-not interested in debugging. Edit 1 for debugging. Edit 2 still debugging.\n",
+				"date_published": "2022-03-16T22:20:00-04:00",
+				"url": "https://bytesof.michaelbishop.me/2022/03/16/dusting-off-my.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/10/10/so-my-current.html",
+				
+				"content_html": "<p>So my current take on the state of IoT home automation is if you are already deeply invested in Apple products and invest in a HomeKit compatible mesh WiFi, accessories are relatively inexpensive. Assuming a trust level with Apple you get IMO a high level of security built in.</p>\n",
+				"content_text": "So my current take on the state of IoT home automation is if you are already deeply invested in Apple products and invest in a HomeKit compatible mesh WiFi, accessories are relatively inexpensive. Assuming a trust level with Apple you get IMO a high level of security built in.\n",
+				"date_published": "2021-10-10T18:16:39-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/10/10/so-my-current.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/09/08/why-i-would.html",
+				"title": "Why I would like to serve on the East Tampa CRA Citizens Advisory Council",
+				"content_html": "<p>(<em>These are my prepared remarks edited with footnotes of ad libbed changes.</em>)</p>\n\n<p>Good evening. My name is Michael Bishop. I am proud Tampa native residing for over 20 years in what I prefer to call the Giddens Park area with my partner and our three rescued pets. The two cats &amp; dog actually own the place, we just have a lifetime lease <sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>. If only they would also take care of the maintenance on a home nearing 100.</p>\n\n<p>First I&rsquo;d like to thank everyone here tonight for your service to our community. I look forward to meeting everyone regardless of whether I am selected for the advisory committee.</p>\n\n<p>My advocacy for my neighbors didn&rsquo;t start here nor will it end here . And when I say neighbors, I mean the folks that celebrate birthdays on Saturday or play basketball Sunday mornings at my beloved Giddens Park as much as I do my next door neighbor. I also mean the folks that have lost their way and are living along Nebraska Ave from the I-4 overpass beyond the CRA.</p>\n\n<p>So why do I want to be on the CAC? Because I believe I can bring experience, drive and humility to support the critical role this committee plays.</p>\n\n<p>The key lesson in civic technology is there is no tech bro saves the day story line. Technology rarely matters. It&rsquo;s often the easiest part. Where it breaks down is translating how policy is implemented in the technology. Needless red tape becomes a non-starter for folks on spotty wifi or phone with a cracked screen. If everyone isn&rsquo;t included in the process it will glaringly show up in the result.</p>\n\n<p>One of the most profound experiences of my life was attending a full day diversity and inclusion training led by Lauraellen McCann through my volunteer work with Code for Tampa Bay. What I took away most from that training was to fully understand the immense level of privilege I was born with. Able bodied, straight CIS white man. If my father had been CEO at the phosphate plant instead of a laborer along with a lot of folks from this neighborhood, I really would have won the golden ticket. But even then, I understand there are two different kinds of poor.</p>\n\n<p>So I was challenged to use my privilege to model behavior and stand up to those that abuse theirs. I don&rsquo;t always get it right but I am always guided by honesty, empathy and ethics.</p>\n\n<p>Of the many lessons I took away from that day another was to go to where the work is being done. Which meant turning all of my attention back on the city. January of this year I began watching every council &amp; CRA board meeting. It didn&rsquo;t take me long to see how the two cookie jars work.</p>\n\n<p>So while I have not had the honor to meet the folks currently on the committee putting in the work, it would be my honor to support the ongoing efforts of the committee.<sup class=\"footnote-ref\" id=\"fnref:2\"><a href=\"#fn:2\">2</a></sup></p>\n\n<p>3 minutes isn’t a lot of time, so if anyone has a question for me I’d like to make myself available this evening or via phone or email.</p>\n\n<p>Finally, I&rsquo;d like to share that as a kid growing up playing baseball  in Tampa, Belmont Heights will always hold a special place for me. Playing against Derek Bell in senior league was a special experience.<sup class=\"footnote-ref\" id=\"fnref:3\"><a href=\"#fn:3\">3</a></sup></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">This didn&rsquo;t go over well I don&rsquo;t believe\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n<li id=\"fn:2\">I stumbled through this ad libbing as I dropped what I originally wrote last minute. This is my best approximation.\n <a class=\"footnote-return\" href=\"#fnref:2\"><sup>[return]</sup></a></li>\n<li id=\"fn:3\">I awkwardly added something about still considering it an honor living so close to that field.\n <a class=\"footnote-return\" href=\"#fnref:3\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "(_These are my prepared remarks edited with footnotes of ad libbed changes._)\n\nGood evening. My name is Michael Bishop. I am proud Tampa native residing for over 20 years in what I prefer to call the Giddens Park area with my partner and our three rescued pets. The two cats & dog actually own the place, we just have a lifetime lease [^1]. If only they would also take care of the maintenance on a home nearing 100.\n\nFirst I'd like to thank everyone here tonight for your service to our community. I look forward to meeting everyone regardless of whether I am selected for the advisory committee. \n\nMy advocacy for my neighbors didn't start here nor will it end here . And when I say neighbors, I mean the folks that celebrate birthdays on Saturday or play basketball Sunday mornings at my beloved Giddens Park as much as I do my next door neighbor. I also mean the folks that have lost their way and are living along Nebraska Ave from the I-4 overpass beyond the CRA. \n\nSo why do I want to be on the CAC? Because I believe I can bring experience, drive and humility to support the critical role this committee plays.\n\nThe key lesson in civic technology is there is no tech bro saves the day story line. Technology rarely matters. It's often the easiest part. Where it breaks down is translating how policy is implemented in the technology. Needless red tape becomes a non-starter for folks on spotty wifi or phone with a cracked screen. If everyone isn't included in the process it will glaringly show up in the result.\n\nOne of the most profound experiences of my life was attending a full day diversity and inclusion training led by Lauraellen McCann through my volunteer work with Code for Tampa Bay. What I took away most from that training was to fully understand the immense level of privilege I was born with. Able bodied, straight CIS white man. If my father had been CEO at the phosphate plant instead of a laborer along with a lot of folks from this neighborhood, I really would have won the golden ticket. But even then, I understand there are two different kinds of poor.\n\nSo I was challenged to use my privilege to model behavior and stand up to those that abuse theirs. I don't always get it right but I am always guided by honesty, empathy and ethics.\n\nOf the many lessons I took away from that day another was to go to where the work is being done. Which meant turning all of my attention back on the city. January of this year I began watching every council & CRA board meeting. It didn't take me long to see how the two cookie jars work.  \n\nSo while I have not had the honor to meet the folks currently on the committee putting in the work, it would be my honor to support the ongoing efforts of the committee.[^2]\n\n3 minutes isn’t a lot of time, so if anyone has a question for me I’d like to make myself available this evening or via phone or email. \n\nFinally, I'd like to share that as a kid growing up playing baseball  in Tampa, Belmont Heights will always hold a special place for me. Playing against Derek Bell in senior league was a special experience.[^3] \n\n[^1]: This didn't go over well I don't believe\n[^2]: I stumbled through this ad libbing as I dropped what I originally wrote last minute. This is my best approximation.\n[^3]: I awkwardly added something about still considering it an honor living so close to that field.\n\n\n",
+				"date_published": "2021-09-08T13:57:58-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/09/08/why-i-would.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/08/10/some-people-find.html",
+				
+				"content_html": "<p>Some people find gold behind old walls, I find 50 year old mouse motels. Though when the acorns came tumbling out, for a brief second…</p>\n",
+				"content_text": "Some people find gold behind old walls, I find 50 year old mouse motels. Though when the acorns came tumbling out, for a brief second…\n",
+				"date_published": "2021-08-10T14:05:39-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/08/10/some-people-find.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/08/10/you-deserve-this.html",
+				
+				"content_html": "<p>You deserve this bee taking a pollen bath in a blue jacket spiderwort flower.</p>\n\n<p>Starting a Florida native pollinator garden should be on every Floridian’s to-do list.</p>\n\n<p><img src=\"uploads/2021/0dfddee559.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "You deserve this bee taking a pollen bath in a blue jacket spiderwort flower.\n\nStarting a Florida native pollinator garden should be on every Floridian’s to-do list. \n\n<img src=\"uploads/2021/0dfddee559.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-10T09:42:36-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/08/10/you-deserve-this.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/08/07/i-skipped-reading.html",
+				
+				"content_html": "<p>I skipped reading the documentation. Guess how it went.</p>\n",
+				"content_text": "I skipped reading the documentation. Guess how it went. \n",
+				"date_published": "2021-08-07T19:41:29-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/08/07/i-skipped-reading.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/08/07/this-weeks-discovery.html",
+				
+				"content_html": "<p>This week’s discovery was the 52 qt ice chest that claims it keeps the ice for 3 days is in fact true if you start with 40 lbs of ice.  20 doesn’t stand a chance though.</p>\n",
+				"content_text": "This week’s discovery was the 52 qt ice chest that claims it keeps the ice for 3 days is in fact true if you start with 40 lbs of ice.  20 doesn’t stand a chance though. \n",
+				"date_published": "2021-08-07T14:07:52-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/08/07/this-weeks-discovery.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/28/youtube-has-become.html",
+				
+				"content_html": "<p>YouTube has become a major source of federal information for me when I’ve been offline. The White House daily press briefing &amp; CSPAN clips of notable statements is a quick way to catch up w/out the punditry (or commercials).</p>\n",
+				"content_text": "YouTube has become a major source of federal information for me when I’ve been offline. The White House daily press briefing & CSPAN clips of notable statements is a quick way to catch up w/out the punditry (or commercials).\n\n",
+				"date_published": "2021-07-28T14:58:35-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/28/youtube-has-become.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/27/what-is-your.html",
+				
+				"content_html": "<p>What is your Minneapolis story?</p>\n",
+				"content_text": "What is your Minneapolis story? \n",
+				"date_published": "2021-07-27T18:15:26-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/27/what-is-your.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/23/i-just-read.html",
+				
+				"content_html": "<p>I just read the words “data driven strategies for human capital” and now I want to burn something down.</p>\n",
+				"content_text": "I just read the words “data driven strategies for human capital” and now I want to burn something down. \n",
+				"date_published": "2021-07-23T21:45:49-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/23/i-just-read.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/20/i-dont-know.html",
+				
+				"content_html": "<p>I don’t know what level of enlightenment it is when your soul has been crushed and you garden but that’s exactly where I am finding myself. Weeding has never had more meaning.</p>\n",
+				"content_text": "I don’t know what level of enlightenment it is when your soul has been crushed and you garden but that’s exactly where I am finding myself. Weeding has never had more meaning.\n",
+				"date_published": "2021-07-20T20:03:51-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/20/i-dont-know.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/17/i-believe-i.html",
+				
+				"content_html": "<p>I believe I convinced someone I care deeply for to get vaccinated. Knowing mRNA research is twelve years in the making was key. The sand spur analogy for the virus helped too I think.</p>\n\n<p>Driving 90 miles to tell her in person sold it.</p>\n",
+				"content_text": "I believe I convinced someone I care deeply for to get vaccinated. Knowing mRNA research is twelve years in the making was key. The sand spur analogy for the virus helped too I think. \n\nDriving 90 miles to tell her in person sold it. \n",
+				"date_published": "2021-07-17T20:28:12-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/17/i-believe-i.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/13/time-for-an.html",
+				
+				"content_html": "<p>Time for an Auggie at the dog park pic. 🐶</p>\n\n<p><img src=\"uploads/2021/01f01d852d.jpg\" width=\"600\" height=\"600\" alt=\"Two small brown dogs facing opposite direction in grass looking towards camera.\" /></p>\n",
+				"content_text": "Time for an Auggie at the dog park pic. 🐶 \n\n<img src=\"uploads/2021/01f01d852d.jpg\" width=\"600\" height=\"600\" alt=\"Two small brown dogs facing opposite direction in grass looking towards camera.\" />\n",
+				"date_published": "2021-07-13T18:14:03-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/13/time-for-an.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/12/we-need-to.html",
+				
+				"content_html": "<p>We need to stop thinking of “getting back to normal” as returning to previous routines &amp; behavior.</p>\n\n<p>Rather, use the lessons we’ve learned and our new perspective to find fresh routines that reinforce our outlook and move us forward.</p>\n",
+				"content_text": "We need to stop thinking of “getting back to normal” as returning to previous routines & behavior.\n\nRather, use the lessons we’ve learned and our new perspective to find fresh routines that reinforce our outlook and move us forward. \n",
+				"date_published": "2021-07-12T12:29:55-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/12/we-need-to.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/07/04/id-like-to.html",
+				
+				"content_html": "<p>I’d like to see the efficacy of the vaccines broken down by age group. I know there’s some data coming on neutralization that sounds promising.</p>\n",
+				"content_text": "I’d like to see the efficacy of the vaccines broken down by age group. I know there’s some data coming on neutralization that sounds promising. \n",
+				"date_published": "2021-07-04T17:00:26-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/07/04/id-like-to.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/29/saw-a-trending.html",
+				
+				"content_html": "<p>Saw a trending repo is a MEGA-LINTER (you must use the monster truck rally promo voice)</p>\n\n<p>Friends, that’s defeating the purpose. Linters should be tuned to the project at hand.</p>\n\n<p>What that really sounds like is a mega package with dependency hell.</p>\n",
+				"content_text": "Saw a trending repo is a MEGA-LINTER (you must use the monster truck rally promo voice) \n\nFriends, that’s defeating the purpose. Linters should be tuned to the project at hand.\n\nWhat that really sounds like is a mega package with dependency hell.\n",
+				"date_published": "2021-06-29T21:02:30-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/29/saw-a-trending.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/28/i-dont-know.html",
+				
+				"content_html": "<p>I don’t know who needs to hear this but focusing on your health is great but if you don’t know what you are living for and aren’t making the most of every day none of it matters.</p>\n",
+				"content_text": "I don’t know who needs to hear this but focusing on your health is great but if you don’t know what you are living for and aren’t making the most of every day none of it matters. \n",
+				"date_published": "2021-06-28T15:56:11-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/28/i-dont-know.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/28/the-thing-i.html",
+				
+				"content_html": "<p>The thing I like most about being on a remote team is having a morning check in. Mostly because it gave me an anchor point for accountability to start my day. Not the same with a bot.</p>\n",
+				"content_text": "The thing I like most about being on a remote team is having a morning check in. Mostly because it gave me an anchor point for accountability to start my day. Not the same with a bot. \n",
+				"date_published": "2021-06-28T08:54:24-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/28/the-thing-i.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/27/can-i-just.html",
+				
+				"content_html": "<p>Can I just build a chess table for the dog park? Do I need to get some kind of approval?</p>\n",
+				"content_text": "Can I just build a chess table for the dog park? Do I need to get some kind of approval?\n",
+				"date_published": "2021-06-27T17:41:39-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/27/can-i-just.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/27/for-the-love.html",
+				
+				"content_html": "<p>For the love of all things holy, can the iOS widget design team <strong>please</strong> offer the option to hide the widget title? I’d be happy with global option to hide app &amp; widget titles.</p>\n",
+				"content_text": "For the love of all things holy, can the iOS widget design team **please** offer the option to hide the widget title? I’d be happy with global option to hide app & widget titles. \n",
+				"date_published": "2021-06-27T15:15:29-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/27/for-the-love.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/25/i-did-a.html",
+				
+				"content_html": "<p>I did a branding exercise with a friend and came to learn what I was researching was Memphis design.</p>\n\n<p>I’m going the opposite direction, but that’s ok.</p>\n\n<p>What I wasn’t expecting was to read about a “corporate Memphis” cartoon marketing phenomenon today.</p>\n",
+				"content_text": "I did a branding exercise with a friend and came to learn what I was researching was Memphis design. \n\nI’m going the opposite direction, but that’s ok.\n\nWhat I wasn’t expecting was to read about a “corporate Memphis” cartoon marketing phenomenon today. \n",
+				"date_published": "2021-06-25T15:33:14-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/25/i-did-a.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/24/my-buddy-grady.html",
+				
+				"content_html": "<p>My buddy Grady 🐱 finishes week 3 of chemo tomorrow. One more to go. He was indoor/outdoor until this.</p>\n\n<p>I built him a catio on the back porch.</p>\n\n<p><img src=\"uploads/2021/6bb7de5c93.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My buddy Grady 🐱 finishes week 3 of chemo tomorrow. One more to go. He was indoor/outdoor until this. \n\nI built him a catio on the back porch. \n\n<img src=\"uploads/2021/6bb7de5c93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-24T19:58:37-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/24/my-buddy-grady.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/24/impressed-with-the.html",
+				
+				"content_html": "<p>Impressed with the eero pro. Really does play nice with HomeKit. Adding accessories is a breeze. I know, Amazon…but they made me an offer I couldn’t refuse. Starting new business and needed to up my WFH situation. This with gigabit fiber straight into the house = new ball game.</p>\n",
+				"content_text": "Impressed with the eero pro. Really does play nice with HomeKit. Adding accessories is a breeze. I know, Amazon…but they made me an offer I couldn’t refuse. Starting new business and needed to up my WFH situation. This with gigabit fiber straight into the house = new ball game.\n",
+				"date_published": "2021-06-24T19:34:12-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/24/impressed-with-the.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/22/generating-and-managing.html",
+				
+				"content_html": "<p>Generating and managing app specific passwords for Apple Mail/Calendar on iOS should be <strong>way</strong> easier. Or is that part of the security model?</p>\n",
+				"content_text": "Generating and managing app specific passwords for Apple Mail/Calendar on iOS should be **way** easier. Or is that part of the security model? \n",
+				"date_published": "2021-06-22T20:03:50-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/22/generating-and-managing.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/18/i-am-absolutely.html",
+				
+				"content_html": "<p>I am absolutely smitten by the new Liz Phair album.  Good Side 👊</p>\n",
+				"content_text": "I am absolutely smitten by the new Liz Phair album.  Good Side 👊\n",
+				"date_published": "2021-06-18T21:47:10-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/18/i-am-absolutely.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/14/going-to-start.html",
+				
+				"content_html": "<p>Going to start a developer bootcamp called Read the Docs. (I know what acronym you are thinking but that’s for someone who knows where the docs are).</p>\n",
+				"content_text": "Going to start a developer bootcamp called Read the Docs. (I know what acronym you are thinking but that’s for someone who knows where the docs are).\n",
+				"date_published": "2021-06-14T20:44:53-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/14/going-to-start.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/10/todays-woodworking-led.html",
+				
+				"content_html": "<p>Today’s woodworking led me down the rabbit hole of Knapsack and Traveling salesman problems to the branch and bound algorithm.  Why no one introduced me to NP-problems as a kid will haunt me.</p>\n",
+				"content_text": "Today’s woodworking led me down the rabbit hole of Knapsack and Traveling salesman problems to the branch and bound algorithm.  Why no one introduced me to NP-problems as a kid will haunt me. \n",
+				"date_published": "2021-06-10T17:48:33-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/10/todays-woodworking-led.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/09/i-bet-with.html",
+				
+				"content_html": "<p>I bet with those new tags from Apple and a cheap Smart lock you could build a HomeKit pet door he says to himself eyeing the hole in the back porch door covered by plywood.</p>\n",
+				"content_text": "I bet with those new tags from Apple and a cheap Smart lock you could build a HomeKit pet door he says to himself eyeing the hole in the back porch door covered by plywood. \n",
+				"date_published": "2021-06-09T23:02:12-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/09/i-bet-with.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/09/auggie-kelli-had.html",
+				
+				"content_html": "<p>Auggie &amp; Kelli had the dog park to themselves this evening. 🐶</p>\n\n<p><img src=\"uploads/2021/a31ddd08a5.jpg\" width=\"600\" height=\"600\" alt=\"Yorkshire Terrier shaved neck down laying in the dirt. To the right, is Auggie, an amber terrier pug mix laying out flat as well.\" /><img src=\"uploads/2021/9d85beea16.jpg\" width=\"404\" height=\"404\" alt=\"Closeup of the Yorkie behind Auggie laying on his side.\" /></p>\n",
+				"content_text": "Auggie & Kelli had the dog park to themselves this evening. 🐶\n\n<img src=\"uploads/2021/a31ddd08a5.jpg\" width=\"600\" height=\"600\" alt=\"Yorkshire Terrier shaved neck down laying in the dirt. To the right, is Auggie, an amber terrier pug mix laying out flat as well.\" /><img src=\"uploads/2021/9d85beea16.jpg\" width=\"404\" height=\"404\" alt=\"Closeup of the Yorkie behind Auggie laying on his side.\" />\n",
+				"date_published": "2021-06-09T22:13:42-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/09/auggie-kelli-had.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/09/look-out-world.html",
+				
+				"content_html": "<p>Look out world. After 52 years of lefty only hand tool use, I’ve become ambidextrous with a 7 ¼” cordless circular saw.</p>\n\n<p>Which means I’m consistently ⅛” off one way or another.</p>\n",
+				"content_text": "Look out world. After 52 years of lefty only hand tool use, I’ve become ambidextrous with a 7 ¼” cordless circular saw. \n\nWhich means I’m consistently ⅛” off one way or another. \n",
+				"date_published": "2021-06-09T21:52:41-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/09/look-out-world.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/09/email-on-acid.html",
+				
+				"content_html": "<p>“Email on Acid” product announcement gave a me a good laugh. Do kids these days even know what LSD is?</p>\n",
+				"content_text": "“Email on Acid” product announcement gave a me a good laugh. Do kids these days even know what LSD is? \n",
+				"date_published": "2021-06-09T12:29:29-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/09/email-on-acid.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/07/trying-to-write.html",
+				
+				"content_html": "<p>Trying to write marketing copy about technical debt and subconsciously used cancer as an analogy. Three quarters of the way in I realized that was because of all the discussions I’ve recently had to have about feline oncology. 😿</p>\n",
+				"content_text": "Trying to write marketing copy about technical debt and subconsciously used cancer as an analogy. Three quarters of the way in I realized that was because of all the discussions I’ve recently had to have about feline oncology. 😿\n",
+				"date_published": "2021-06-07T21:00:28-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/07/trying-to-write.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/04/in-line-at.html",
+				
+				"content_html": "<p>In line at a 7-11 and a guy complaining how these used to be convenience stores in the 70s but now there’s nothing convenient while using a plastic card and punching in 4 numbers to get his $5 5 minute pizza.</p>\n",
+				"content_text": "In line at a 7-11 and a guy complaining how these used to be convenience stores in the 70s but now there’s nothing convenient while using a plastic card and punching in 4 numbers to get his $5 5 minute pizza. \n",
+				"date_published": "2021-06-04T00:13:42-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/04/in-line-at.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/06/01/i-dont-want.html",
+				
+				"content_html": "<p>I don’t want a head stone so maybe someone can make sure to write “irreconcilable difference” in the sand as my body is lit on fire and pushed out towards the gulf.</p>\n",
+				"content_text": "I don’t want a head stone so maybe someone can make sure to write “irreconcilable difference” in the sand as my body is lit on fire and pushed out towards the gulf. \n",
+				"date_published": "2021-06-01T21:48:05-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/06/01/i-dont-want.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/26/i-just-realized.html",
+				
+				"content_html": "<p>I just realized how troublesome the brand Master Lock is. Yikes.</p>\n",
+				"content_text": "I just realized how troublesome the brand Master Lock is. Yikes. \n",
+				"date_published": "2021-05-26T21:46:36-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/26/i-just-realized.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/23/fulfilled-a-childhood.html",
+				
+				"content_html": "<p>Fulfilled a childhood dream yesterday. One unbeknownst to me until a couple of months ago was possible. On the way out caught one of my favorite Florida wildflowers blooming—Yellow Prickly-poppy.</p>\n\n<p><img src=\"uploads/2021/27d65eee00.jpg\" width=\"600\" height=\"600\" alt=\"green plant with thorns and yellow bloom with dark center, similar to poppy flower. \" /></p>\n",
+				"content_text": "Fulfilled a childhood dream yesterday. One unbeknownst to me until a couple of months ago was possible. On the way out caught one of my favorite Florida wildflowers blooming—Yellow Prickly-poppy. \n\n<img src=\"uploads/2021/27d65eee00.jpg\" width=\"600\" height=\"600\" alt=\"green plant with thorns and yellow bloom with dark center, similar to poppy flower. \" />\n",
+				"date_published": "2021-05-23T20:17:41-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/23/fulfilled-a-childhood.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/21/where-is-the.html",
+				
+				"content_html": "<p>Where is the chat room for Who Killed Sara fans who’ve binged watch season 2? It’s the perfect murder mystery telenovela. Don’t watch with overdubs though. Lol</p>\n",
+				"content_text": "Where is the chat room for Who Killed Sara fans who’ve binged watch season 2? It’s the perfect murder mystery telenovela. Don’t watch with overdubs though. Lol \n",
+				"date_published": "2021-05-21T16:37:35-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/21/where-is-the.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/19/my-prayers-have.html",
+				
+				"content_html": "<p>My prayers have been answered. You can now archive other logins to a site and only have your preferred one(s) suggested in 1Password. Goodbye 8 old Twitter and 5 Google accounts.</p>\n",
+				"content_text": "My prayers have been answered. You can now archive other logins to a site and only have your preferred one(s) suggested in 1Password. Goodbye 8 old Twitter and 5 Google accounts. \n",
+				"date_published": "2021-05-19T13:41:41-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/19/my-prayers-have.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/19/this-past-couple.html",
+				
+				"content_html": "<p>This past couple of weeks I went back to 2010 era web development and it’s as ugly as you remember it.</p>\n",
+				"content_text": "This past couple of weeks I went back to 2010 era web development and it’s as ugly as you remember it. \n",
+				"date_published": "2021-05-19T12:47:51-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/19/this-past-couple.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/18/i-might-be.html",
+				
+				"content_html": "<p>I might be it’s biggest critic but if I’m going to build a website in 2021 I want to be able to leave the “Proudly powered by WordPress” prominently in the footer.</p>\n",
+				"content_text": "I might be it’s biggest critic but if I’m going to build a website in 2021 I want to be able to leave the “Proudly powered by WordPress” prominently in the footer.\n",
+				"date_published": "2021-05-18T20:55:04-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/18/i-might-be.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/17/has-anyone-considered.html",
+				
+				"content_html": "<p>Has anyone considered doing what An Event Part does but more indie band touring clubs style?  I guess that used to be barcamps but that seems to have evolved way past the web. Front End Conference was as close as I’ve gotten and that small theater.</p>\n",
+				"content_text": "Has anyone considered doing what An Event Part does but more indie band touring clubs style?  I guess that used to be barcamps but that seems to have evolved way past the web. Front End Conference was as close as I’ve gotten and that small theater.\n",
+				"date_published": "2021-05-17T14:36:29-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/17/has-anyone-considered.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/17/someone-tell-me.html",
+				
+				"content_html": "<p>Someone tell me they have had good luck with a particular mesh WiFi solution that plays nicely with HomeKit. I can’t seem to find a straight answer on the eero 6.</p>\n",
+				"content_text": "Someone tell me they have had good luck with a particular mesh WiFi solution that plays nicely with HomeKit. I can’t seem to find a straight answer on the eero 6. \n",
+				"date_published": "2021-05-17T12:40:43-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/17/someone-tell-me.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/15/it-was-refreshing.html",
+				
+				"content_html": "<p>It was refreshing to see the trendiest teen fashion at the fancy mall with the Apple Store was basically Robert Smith sans eyeliner.</p>\n",
+				"content_text": "It was refreshing to see the trendiest teen fashion at the fancy mall with the Apple Store was basically Robert Smith sans eyeliner. \n",
+				"date_published": "2021-05-15T16:45:51-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/15/it-was-refreshing.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/14/friday-night-happy.html",
+				
+				"content_html": "<p>Friday Night Happy Hour</p>\n\n<p><img src=\"uploads/2021/a345028907.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Friday Night Happy Hour\n\n<img src=\"uploads/2021/a345028907.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-14T19:52:58-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/14/friday-night-happy.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/12/you-know-youre.html",
+				
+				"content_html": "<p>You know you’re reaching your limit when you could loose it because the spoons and forks are mixed together and you just need that one special spoon you only use for this thing…</p>\n",
+				"content_text": "You know you’re reaching your limit when you could loose it because the spoons and forks are mixed together and you just need that one special spoon you only use for this thing…\n",
+				"date_published": "2021-05-12T20:53:59-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/12/you-know-youre.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/12/ive-worn-out.html",
+				
+				"content_html": "<p>I’ve worn out my Code is Poetry shirt but lately I’ve been taking a much more Hemingway approach.</p>\n",
+				"content_text": "I’ve worn out my Code is Poetry shirt but lately I’ve been taking a much more Hemingway approach.\n",
+				"date_published": "2021-05-12T13:34:35-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/12/ive-worn-out.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/12/tonight-i-got.html",
+				
+				"content_html": "<p>Tonight I got turned around backwards because a cli package of another node package is version 2.1 but the main library is at 3.3.</p>\n",
+				"content_text": "Tonight I got turned around backwards because a cli package of another node package is version 2.1 but the main library is at 3.3.\n",
+				"date_published": "2021-05-12T07:08:39-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/12/tonight-i-got.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/11/i-feel-like.html",
+				
+				"content_html": "<p>I feel like when I use the phrase “fewer moving parts, fewer broken pieces” I should include a snippet of @davidbazan because I can’t hear it any other way now.</p>\n",
+				"content_text": "I feel like when I use the phrase “fewer moving parts, fewer broken pieces” I should include a snippet of @davidbazan because I can’t hear it any other way now. \n",
+				"date_published": "2021-05-11T21:38:57-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/11/i-feel-like.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/11/im-now-the.html",
+				
+				"content_html": "<p>I’m now the person that takes pics of his dog at the park. Here’s Auggie with the first friend he made at the park, Bella.</p>\n\n<p><img src=\"uploads/2021/fd4aa69907.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I’m now the person that takes pics of his dog at the park. Here’s Auggie with the first friend he made at the park, Bella. \n\n<img src=\"uploads/2021/fd4aa69907.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-05-11T11:05:03-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/11/im-now-the.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/11/somehow-i-managed.html",
+				
+				"content_html": "<p>Somehow I managed to come out of the pandemic with an improved credit score putting me just into “excellent” territory. Bloody amazing.</p>\n",
+				"content_text": "Somehow I managed to come out of the pandemic with an improved credit score putting me just into “excellent” territory. Bloody amazing. \n",
+				"date_published": "2021-05-11T10:20:24-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/11/somehow-i-managed.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/11/was-having-all.html",
+				
+				"content_html": "<p>Was having all kinds of trouble with a Docker compose file for WordPress dev that worked fine for the past year until it didn’t. Seems <code>mysql:latest</code> was the culprit. Switching to <code>mariadb</code>resolved it. Is MySQL 8 that big of a change?</p>\n",
+				"content_text": "Was having all kinds of trouble with a Docker compose file for WordPress dev that worked fine for the past year until it didn’t. Seems `mysql:latest` was the culprit. Switching to `mariadb`resolved it. Is MySQL 8 that big of a change?\n",
+				"date_published": "2021-05-11T06:56:54-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/11/was-having-all.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/10/i-think-of.html",
+				
+				"content_html": "<p>I think of empathy as using learned and personal experiences to put yourself in the other person’s shoes and treat accordingly. But a quote I think that’s attributed to Nietzsche “you best teach what you most need to learn.” <a href=\"https://twitter.com/laurenancona/status/1391899468706902017\">twitter.com</a></p>\n",
+				"content_text": "I think of empathy as using learned and personal experiences to put yourself in the other person’s shoes and treat accordingly. But a quote I think that’s attributed to Nietzsche “you best teach what you most need to learn.” [twitter.com](https://twitter.com/laurenancona/status/1391899468706902017)\n",
+				"date_published": "2021-05-10T20:36:39-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/10/i-think-of.html"
+			},
+			{
+				"id": "http://michaelbishop.micro.blog/2021/05/09/priorities-being-what.html",
+				
+				"content_html": "<p>Priorities being what they are and the idea of sunsetting miklb.com for awhile I&rsquo;ve decided to move to MichaelBishop.me. Specifically bytesof.michaelbishop.me hosted on @microblog. Eventually the top level with be edited content. Words and images. Maybe some code. But for now, raw content. Possibly aged.</p>\n",
+				"content_text": "Priorities being what they are and the idea of sunsetting miklb.com for awhile I've decided to move to MichaelBishop.me. Specifically bytesof.michaelbishop.me hosted on @microblog. Eventually the top level with be edited content. Words and images. Maybe some code. But for now, raw content. Possibly aged. \n",
+				"date_published": "2021-05-09T19:51:53-04:00",
+				"url": "https://bytesof.michaelbishop.me/2021/05/09/priorities-being-what.html"
+			}
+	]
+}
